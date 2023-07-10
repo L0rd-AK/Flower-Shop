@@ -128,11 +128,12 @@
 /* special section */
 .Special-container{
     display: flex;
-    float: left;
     justify-content: center;
-    gap: 50px;
+    align-items: center;
+    gap: 140px;
     margin: 50px auto;
-    height: 320px;
+    width: 1140px;
+    height: 300px;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
 }
