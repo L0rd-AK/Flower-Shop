@@ -76,7 +76,7 @@
 }
 .flower-container{
     display: flex;
-    gap: 15px;
+    gap: 20px;
     justify-content: center;
 }
 
@@ -124,4 +124,19 @@
 }
 .short-flower{
     margin-top: 87px;
+}
+/* special section */
+.Special-container{
+    display: flex;
+    float: left;
+    justify-content: center;
+    gap: 50px;
+    margin: 50px auto;
+    height: 320px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+}
+.special-img{
+    width: 88px;
+    height: 88px;
 }
