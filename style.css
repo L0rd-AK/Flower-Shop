@@ -62,13 +62,14 @@
     display: flex;
     float: left;
     gap: 15px;
+    margin: 10px auto;
 }
 .main-container{
 
 }
 .one{
-    width: 464px;
-    height: 538px;
+    width: 364px;
+    height: 478px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
 }
@@ -77,22 +78,23 @@
     height: 370px;
 }
 .two{
-    width: 464px;
-    height: 538px;
+    width: 364px;
+    height: 478px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
 }
 .featured-flower-2{
-    width: 310px;
-    height: 428px;
+    width: 300px;
+    height: 458px;
+    margin-top: 20px;
 }
 .three{
-    width: 464px;
-    height: 538px;
+    width: 364px;
+    height: 478px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
 }
 .featured-flower-3{
-    width: 314px;
-    height: 471px;
+    width: 300px;
+    height: 477px;
 }
