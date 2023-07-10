@@ -141,6 +141,13 @@
     width: 88px;
     height: 88px;
 }
+/* Offer section */
+.offer-section{
+    width: 100%;
+    height: 500px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
 /* instragram section */
 .instragram-img{
     width: 272px;
