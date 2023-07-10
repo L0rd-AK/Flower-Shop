@@ -58,14 +58,29 @@
     align-items: center;
     text-align: center;
 }
+.featured-title{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.featured-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
 .flower-container{
     display: flex;
-    float: left;
     gap: 15px;
-    margin: 10px auto;
+    justify-content: center;
 }
 .main-container{
-
+/* margin: auto; */
 }
 .one{
     width: 364px;
@@ -76,6 +91,7 @@
 .featured-flower-1{
     width: 370px;
     height: 370px;
+    margin-top: 20px;
 }
 .two{
     width: 364px;
@@ -97,4 +113,17 @@
 .featured-flower-3{
     width: 300px;
     height: 477px;
+}
+.featured-flower-description{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
+.short-flower{
+    margin-top: 87px;
 }
