@@ -141,6 +141,37 @@
     width: 88px;
     height: 88px;
 }
+/* instragram section */
+.instragram-img{
+    width: 272px;
+    height: 306px;
+}
+.instragram-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin: 50px auto;
+    width: 1140px;
+    height: 300px;
+    border-radius: 8px;
+    margin-bottom: 100px;
+}
+.inatragram-title{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+.instragram-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+}
 /* Hot deal section */
 .Hot-deal{
     background-image: url('/Flower Asset/Rectangle 9.png');
