@@ -11,6 +11,9 @@
     display: flex;
     float: left;
 }
+.head{
+    margin: 170px 50px 0px 100px;
+}
 .header-title{
     color: #272727;
     font-family: Lato;
@@ -19,13 +22,12 @@
     margin-bottom: 12px;
 }
 .header-description{
-    margin-top: 12px;
-    color: rgba(39, 39, 39, 0.60);
+    margin-top: 16px;
+    color: rgba(39, 39, 39, 0.616);
     font-family: Lato;
     font-size: 15px;
     font-style: normal;
     font-weight: 400;
-    /* line-height: 30px; */
 }
 .header-img{
     width: 100%;
@@ -34,6 +36,15 @@
     margin-left: 80px;
 }
 .header-btn{
+    margin-top: 16px;
     border-radius: 8px;
     background: #E55473;
+    padding: 20px 43px;
+    border: none;
+    cursor: pointer;
+
+    color: #FFF;
+    font-family: Lato;
+    font-size: 15px;
+    font-weight: 700;
 }
