@@ -141,6 +141,61 @@
     width: 88px;
     height: 88px;
 }
+/* Hot deal section */
+.Hot-deal{
+    background-image: url('/Flower Asset/Rectangle 9.png');
+    background-size: cover;
+
+}
+.hot-deal-title{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 15px;
+}
+.hot-deal-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 15px;
+}
+.hot-deal-button-section{
+    display: flex;
+    float: left;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.hot-deal-input{
+    width: 150px;
+    height: 24px;
+    padding: 23px 513px 22px 22px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    border: none;
+    border-radius: 8px;
+    background: #FFF;
+    margin-right: 15px;
+}
+.hot-btn{
+    width: 150px;
+    height: 67px;
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 15px;
+    font-weight: 700;
+}
 /* footer section */
 .footer-section{
     display: flex;
