@@ -25,7 +25,7 @@
     margin-top: 16px;
     color: rgba(39, 39, 39, 0.616);
     font-family: Lato;
-    font-size: 15px;
+    font-size: 14px;
     font-style: normal;
     font-weight: 400;
 }
@@ -47,4 +47,21 @@
     font-family: Lato;
     font-size: 15px;
     font-weight: 700;
+}
+.shop-icon{
+    width: 20px;
+    height: 20px;
+    padding: 3px;
+}
+/* Main section */
+.main-container{
+    align-items: center;
+    text-align: center;
+}
+.flower-container{
+    display: flex;
+    float: left;
+}
+.featured-title{
+    margin-top: 00px;
 }
