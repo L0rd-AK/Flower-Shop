@@ -6,8 +6,34 @@
 }
 .container{
     width: 100%;
-    height: 600px;
+    height: 700px;
     background: rgba(229, 84, 115, 0.247);
     display: flex;
     float: left;
+}
+.header-title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 70px;
+    font-weight: 800;
+    margin-bottom: 12px;
+}
+.header-description{
+    margin-top: 12px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    /* line-height: 30px; */
+}
+.header-img{
+    width: 100%;
+    height: 680px;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.header-btn{
+    border-radius: 8px;
+    background: #E55473;
 }
