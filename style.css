@@ -10,6 +10,7 @@
     background: rgba(229, 84, 115, 0.247);
     display: flex;
     float: left;
+    margin-bottom: 200px;
 }
 .head{
     margin: 170px 50px 0px 100px;
@@ -23,11 +24,10 @@
 }
 .header-description{
     margin-top: 16px;
-    color: rgba(39, 39, 39, 0.616);
+    color: rgb(39, 39, 39);
     font-family: Lato;
-    font-size: 14px;
-    font-style: normal;
-    font-weight: 400;
+    font-size: 17px;
+    font-weight: 300;
 }
 .header-img{
     width: 100%;
@@ -61,7 +61,38 @@
 .flower-container{
     display: flex;
     float: left;
+    gap: 15px;
 }
-.featured-title{
-    margin-top: 00px;
+.main-container{
+
+}
+.one{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.featured-flower-1{
+    width: 370px;
+    height: 370px;
+}
+.two{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+.featured-flower-2{
+    width: 310px;
+    height: 428px;
+}
+.three{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+.featured-flower-3{
+    width: 314px;
+    height: 471px;
 }
