@@ -362,3 +362,10 @@
 .footer-title{
     margin-bottom: 10px;
 }
+.inatagram-icon{
+    width: 30px;
+    height: 30px;
+    margin-left: 3px;
+    margin-right: 3px;
+    cursor: pointer;
+}
