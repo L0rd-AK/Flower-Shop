@@ -165,8 +165,15 @@
 }
 /* client count section */
 .client-count{width: 100%;
+    margin-top: 751px;
     height: 200px;
     background-color: #000000;
+}
+.clint-div{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
 }
 
 /* special section */
